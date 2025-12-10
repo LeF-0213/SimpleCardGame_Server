@@ -19,7 +19,7 @@ const ALLOWED_ORIGINS = process.env.ALLOWED_ORIGINS
           "http://localhost:5173",
           "http://localhost:5174",
           "http://localhost:5175",
-          "https://development-ward-webrtc.github.io",
+          "https://lef-0213.github.io",
           // 로컬 네트워크 IP들 (필요시 .env에 추가)
       ];
 
